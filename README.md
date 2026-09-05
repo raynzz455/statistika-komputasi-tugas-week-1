@@ -2,13 +2,13 @@
 
 ## Identitas
 
-**Nama:** Raynaldi
-**NIM:** 3338250031
-**Kelas:** 3A
-**Angkatan:** 2025
-**Program Studi:** Statistika
-**Semester:** 3
-**Mata Kuliah:** Statistika Matematika
+- **Nama:** Raynaldi
+- **NIM:** 3338250031
+- **Kelas:** 3A
+- **Angkatan:** 2025
+- **Program Studi:** Statistika
+- **Semester:** 3
+- **Mata Kuliah:** Statistika Matematika
 
 ---
 
